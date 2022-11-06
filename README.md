@@ -1,9 +1,10 @@
-- Oi. Eu sou Diego Gusmão Lins
-- 👋 Hi, I’m @DiegoGLins
-- Sou amante de tecnologia nas mais diversas formas. Atualmente buscando conhecimento necessário para migrar para área da tecnologia.
-- 👀 I’m interested in ...
-- Estou estudando as principais linguagens de front-end: Javascript, CSS e Html
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Oi. Eu sou Diego Gusmão Lins
 
+Desenvolvedor Web Fullstack em formação na Growdev
+
+Contato:
+
+- dl7designer@gmail.com
+- DiegoLins no discord
+- diego_lins777 no Instagram
+- https://www.linkedin.com/in/diegolins07 no Linkedin
