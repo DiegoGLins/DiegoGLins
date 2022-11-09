@@ -1,41 +1,9 @@
-Oi. Eu sou Diego Gusmão Lins
-
-Desenvolvedor Web Fullstack em formação na Growdev
-
-Contato:
-
-- dl7designer@gmail.com
-- DiegoLins no discord
-- diego_lins777 no Instagram
-- https://www.linkedin.com/in/diegolins07 no Linkedin
-
-Skills
-
--Raciocínio analítico e matemático;
--Trabalho em equipe;
-
-Hobbies:
-
-Gosto de desenhar, tocar violão e viajar sempre que possível
-
-Foramção:
-
-Formação técnica em mecatrônica.
-
-Experiências Profissionais.
-
-Atuei como técnico em melhoria contínua, apoiando em melhorias
-de processos no chão de fábrica, criando fluxograma de processos
-entre outras atividades
-
-Linguagem de programação Favorita:
-
-Ainda me familiarizando com as linguagens, mais possivelmente além de direcionar meu foco para Javascript,
-estarei me aprofundando em linguagens voltada para Front end e desenvolvimento mobile
-
-O que estou estudando atualmente:
-
-Faço parte do programa de formação Desenvolvedor Web Fullstack da Growdev, onde no momento estamos aprendendo HTML e um pouco de CSS
+😎 I'm Diego Gusmão Lins Vieira,
+📚 estudante de Desenvolvimento Web Fullstack na Growdev
+🎓 graduated in Public Administration
+🎱 Hobbies: Tocar violão, desenhar, jogos eletrônicos, artes marciais
+⌚ Experiências profissionais: TRUCKBUS - RUBBER PARTS -11/2020 a 07/2022 -Técnico em melhoria contínua, REVOLUZ ILUMINAÇÃO - 07/2017 a 11/2020 -Assistente de Processos, POLIRON - GRUPO BELDEN BRAND - Período: 03/2011 a 04/2015 - Operador de Máquinas
+📗 Estudando atualmente: HTML, CSS
 
 
 <div align="center">
