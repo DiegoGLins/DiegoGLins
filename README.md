@@ -29,7 +29,7 @@ no chão de fábrica, criando fluxograma de processos, acertando estruturas de p
 relatórios de produtividade, eficiência, elaboração de kanbans eletrônicos, Kaizes entre outras melhorias.
 Tive ótimas experiências em maquinários diversos pelas empresas que atuei, o que me deu uma visão ampla em diferentes processos de produção.
 
-Linguagem de programção Favorita:
+Linguagem de programação Favorita:
 
 Ainda me familiarizando com as linguagens, mais possivelmente além de direcionar meu foco para Javascript, estarei me aprofundando em
 linguagens voltada para Front end e desenvolvimento mobile
