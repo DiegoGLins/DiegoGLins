@@ -18,8 +18,25 @@ Hobbies:
 
 Gosto de desenhar, tocar violão e viajar sempre que possível
 
-Formação técnica em mecatrônica. Atuei como técnico em melhoria contínua, apoiando em melhorias de processos
-no chão de fábrica, criando fluxgrama de processos, acertando estruturas de produto no sistema entre outras atividades
+Foramção:
+
+Formação técnica em mecatrônica.
+
+Experiências Profissionais.
+
+Atuei como técnico em melhoria contínua, apoiando em melhorias de processos
+no chão de fábrica, criando fluxograma de processos, acertando estruturas de produto no sistema, apoiando lideres com
+relatórios de produtividade, eficiência, elaboração de kanbans eletrônicos, Kaizes entre outras melhorias.
+Tive ótimas experiências em maquinários diversos pelas empresas que atuei, o que me deu uma visão ampla em diferentes processos de produção.
+
+Linguagem de programção Favorita:
+
+Ainda me familiarizando com as linguagens, mais possivelmente além de direcionar meu foco para Javascript, estarei me aprofundando em
+linguagens voltada para Front end e desenvolvimento mobile
+
+O que estou estudando atualmente:
+
+Faço parte do programa de formação Desenvolvedor Web Fullstack da Growdev, onde no momento estamos aprenxendo HTML e um pouco de CSS
 
 
 <div align="center">
