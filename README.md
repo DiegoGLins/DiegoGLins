@@ -13,3 +13,10 @@ Skills
 
 -Raciocínio analítico e matemático;
 -Trabalho em equipe;
+
+Hobbies:
+
+Gosto de desenhar, tocar violão e viajar sempre que possível
+
+Formação técnica em mecatrônica. Atuei como técnico em melhoria contínua, apoiando em melhorias de processos
+no chão de fábrica, criando fluxgrama de processos, acertando estruturas de produto no sistema entre outras atividades
