@@ -12,7 +12,7 @@ POLIRON - GRUPO BELDEN BRAND - Período: 03/2011 a 04/2015 - Operador de Máquin
 <div style="text-align-center">
   <p>Conecte-se comigo nas redes sociais</p>
 <br>
-<a href="https://www.linkedin.com/in/diegolins07/">
+<a href="https://www.linkedin.com/in/diegolins07/" target="_blank">
   <img align="left" alt="Diego Lins" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/DiegoG.Lins">
