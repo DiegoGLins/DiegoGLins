@@ -26,6 +26,12 @@ POLIRON - GRUPO BELDEN BRAND - Período: 03/2011 a 04/2015 - Operador de Máquin
 </div>
 
 <div align="center">
+  <a href="https://DiegoGLins.github.io/DiegoGLins/">
+  <img  src="https://github.com/DiegoGLins/DiegoGLins/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<div align="center">
   <a href="https://github.com/DiegoGLins">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=DiegoGLins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGLins&layout=compact&langs_count=7&theme=dracula"/>
