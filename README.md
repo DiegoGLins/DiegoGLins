@@ -6,7 +6,7 @@
 TRUCKBUS - RUBBER PARTS -11/2020 a 07/2022 - Técnico em melhoria contínua, <br>
 REVOLUZ ILUMINAÇÃO - 07/2017 a 11/2020 -Assistente de Processos, <br>
 POLIRON - GRUPO BELDEN BRAND - Período: 03/2011 a 04/2015 - Operador de Máquinas <br>
-📗 Estudando atualmente: HTML, CSS
+📗 Estudando atualmente: HTML, CSS, JAVASCRIPT
 
 <br>
 <div style="text-align-center">
