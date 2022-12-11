@@ -26,7 +26,7 @@ POLIRON - GRUPO BELDEN BRAND - Período: 03/2011 a 04/2015 - Operador de Máquin
 </div>
 
 <div align="center">
-  <a href="https://DiegoGLins.github.io/DiegoGLins/">
+  <a href="https://github.com/DiegoGLins/DiegoGLins/edit/main/README.md">
   <img  src="https://github.com/DiegoGLins/DiegoGLins/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
