@@ -41,8 +41,8 @@ POLIRON - GRUPO BELDEN BRAND - Período: 03/2011 a 04/2015 - Operador de Máquin
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00599C&labelColor=black">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=black">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=black&logoWidth=40">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black&logoWidth=40">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=black">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black">
   </span>
-</p>
+</p>  
 
