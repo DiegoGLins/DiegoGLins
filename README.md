@@ -1,5 +1,5 @@
 😎 Eu sou Diego Gusmão Lins Vieira, <br>
-🎓 Formação: Desenvolvimento Web Fullstack na Growdev, Técnico em Mecatrônica <br>
+🎓 Formação: Desenvolvimento Web Fullstack na Growdev, Técnico em Mecatrônica na Etec<br>
 🎱 Hobbies: Tocar violão, desenhar, jogos eletrônicos, artes marciais <br>
 ⌚ Experiências profissionais: <br>
 USINA DESIGN ILUMINAÇÃO - 12/2022 a 06/2023 - Analista de processos, <br>
