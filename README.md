@@ -2,6 +2,7 @@
 🎓 Formação: Desenvolvimento Web Fullstack na Growdev, Técnico em Mecatrônica na Etec<br>
 🎱 Hobbies: Tocar violão, desenhar, jogos eletrônicos, artes marciais <br>
 ⌚ Experiências profissionais: <br>
+PROGRAMADOR DE PCP - 04/2025 - atual, <br>
 USINA DESIGN ILUMINAÇÃO - 12/2022 a 06/2023 - Analista de processos, <br>
 TRUCKBUS - RUBBER PARTS -11/2020 a 07/2022 - Técnico em melhoria contínua, <br>
 REVOLUZ ILUMINAÇÃO - 07/2017 a 11/2020 -Assistente de Processos, <br>
